@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 //import { BrowserRouter as Router, Route, NavLink } from 'react-router-dom';
-import { HashRouter as Router, Route, Link, NavLink } from './node_modules/react-router-dom';
+import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
 import SignUpForm from './pages/SignUpForm';
 import SignInForm from './pages/SignInForm';
 import Logo from "./BaytlerLogo.png";
