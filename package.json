@@ -9,7 +9,6 @@
     "build": "react-scripts build",
     "server": "nodemon server.js",
     "client": "npm start --prefix client"
-
   },
   "author": "",
   "license": "MIT",
